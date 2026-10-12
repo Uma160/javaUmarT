@@ -20,11 +20,11 @@ public class TaskC {
         }
 
         if (x1 == x2 && y1 == y2) {
-            System.out.println("No");
+            System.out.println("NO");
         } else if (dx == dy) {
-            System.out.println("Yes");
+            System.out.println("YES");
         } else {
-            System.out.println("No");
+            System.out.println("NO");
         }
     }
 }
